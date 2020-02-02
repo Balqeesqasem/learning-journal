@@ -22,7 +22,10 @@ Now if you have a list you can do it easily by just typing - or * before what yo
 
 Some of Markdown i use:
 
-Heading*Link*Styling*list
+* Heading
+* Link
+* Styling
+* list
 
 
 
