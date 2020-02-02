@@ -14,7 +14,7 @@ We can make header , ordered and unordered lists , Image , links ...etc.
 Its a special version of features only for Markdown which make it more easy and useful .
 But we can't use all Flavored Markdown ; some of it just used in descriptions and comments as @mentions , SHA-1 hashes.
 
-### Some example of GitHub Flavored Markdown
+### Some example :
 1. Tables
 
 Day number 1 | day number 2
