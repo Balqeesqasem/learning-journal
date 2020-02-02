@@ -12,14 +12,6 @@ Now if you have a list you can do it easily by just typing - or * before what yo
 
 
 
-
-
-
-
-
-
-
-
 Some of Markdown i use:
 
 * Heading
@@ -27,6 +19,8 @@ Some of Markdown i use:
 * Styling
 * list
 
+:EMOJICODE: 
+@octocat: :smiley: I am so happy to make this page :blue_heart:
 
 
 
