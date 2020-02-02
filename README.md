@@ -5,7 +5,7 @@ If you want to make aheading for your website you have to but a "#" before your 
 
 We can ***Styling*** text by usin some sine like " ** "
 
-If you wan't to add a link like that [GitHub Pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) you have to use aformat like in the link i attach before using  "[]" and (but link here).
+If you wan't to add a link like that [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) you have to use aformat like in the link i attach before using  "[]" and (but link here).
 
 Now if you have a list you can do it easily by just typing - or * before what you want to list .
 
