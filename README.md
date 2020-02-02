@@ -18,7 +18,7 @@ Some of Markdown i use:
 * Link
 * Styling
 * list
-
+* emoji
 
  :smiley: I am so happy to make this page :blue_heart:
 
