@@ -1,6 +1,6 @@
-#Mastering Markdown
+# Mastering Markdown
 
-###Markdown 
+### Markdown 
 
 Markdown is away to stayle your page and make it look butter ,we can use some non-alphabetic characters like * , _ , # ..etc and we have a different syntax to write on it  .
 
