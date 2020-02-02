@@ -19,7 +19,7 @@ Some of Markdown i use:
 * Styling
 * list
 
-:EMOJICODE: 
+
  :smiley: I am so happy to make this page :blue_heart:
 
 
