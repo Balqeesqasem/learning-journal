@@ -20,7 +20,7 @@ Some of Markdown i use:
 * list
 
 :EMOJICODE: 
-@octocat: :smiley: I am so happy to make this page :blue_heart:
+ :smiley: I am so happy to make this page :blue_heart:
 
 
 
