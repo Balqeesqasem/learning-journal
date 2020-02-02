@@ -22,9 +22,13 @@ Some feature of Visual Studio :  syntax highlighting, themes, extensions and cod
 completion. 
 
 
+![Logo](https://www.erunga.net/wp-content/uploads/visual-studio-logo.png)
+
 2. ### NotePad++
 
 It is available  and *FREE* for Windows computers only.
-Some feature of NotePad++ : syntax highlighting, code completion, word completion, zoom in an out and function completion 
+Some feature of NotePad++ : syntax highlighting, code completion, word completion, zoom in an out and function completion.
 
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png)
 
