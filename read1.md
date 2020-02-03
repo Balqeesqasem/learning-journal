@@ -52,6 +52,31 @@ You can easily download it from its website after that you have To check setting
 
 1. we have to make a repo.
 
-3. Cloning : we can do this in this command [ git clone my URL]
+2. Cloning : we can do this in this command [ git clone my URL].
+
+3. Check File Status : we can check by using this command [ git status ].
+
+4. Tracking and Staging a New File : 
+
+* add single file : git add filename
+
+* add all files : git add *
+
+5. Committ : after changing i have to commit them .
+
+using :
+
+* git commit -m “made change x,y,z” ( to Committing a File)
+
+* git commit -a ( to Committing All Changes )
+
+
+6. Pushing Changes : thats to push changes to GitHub which is a remote repositories by using this command ( git push origin master ).
+
+
+### Balqees Qasem
+##### Computer Engineer 
+
+
 
 
