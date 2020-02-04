@@ -1,0 +1,51 @@
+body {
+    background-color: #f3cfcf;
+}
+
+h1 {
+color: rgb;
+text-align: center;
+background-color: teal;
+color: oldlace;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+ 
+nav a {
+    text-decoration: none;
+} 
+
+h2 {
+
+    
+
+background-color: teal;
+color: oldlace;
+
+}
+
+img {
+
+    padding: 30px;
+}
+
+p{
+    color: lightslategray;
+    font-style: italic;
+}
+
+footer {
+
+    
+text-align: center;
+background-color: black;
+color: white;
+
+}
+
+p + script + h3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #bcbdc0;}
