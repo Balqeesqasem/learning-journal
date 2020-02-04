@@ -1,10 +1,11 @@
 var today = new Date(); 
-var hourNow = today.getHours();
+var pay = today.getHours();
  var greeting; 
- var hourNow = prompt ("Whats your budjet")
- if (hourNow > 18) { greeting = 'Goodevening,Class!'; } 
- else if(hourNow > 12){ greeting = 'Goodafternoon,Class!';
- } else if(hourNow >= 0){ greeting = 'Goodmorning!'; }
+ var pay = prompt ("How much to pay")
+
+ if (pay < 50) {greeting = 'There are many balloons that you can buy for less than $ 50. Enjoy our shopping' } 
+ else if(hourNow > 50){ greeting = 'This is a high budget , seems that what you are preparing for will be a wonderful thing with our balloons!';
+ } 
  else { greeting = 'Somethingwentwrong!';
  } 
  document.write('<h3>' + greeting + '</h3>');
