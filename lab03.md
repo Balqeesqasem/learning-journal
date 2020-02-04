@@ -7,7 +7,6 @@
 
 Name of page | Link
 ------------ | ----
-README    | [readme](https://balqeesqasem.github.io/learning-journal/README)
 Text editor | [text editor](https://balqeesqasem.github.io/learning-journal/Summrization)
 Markdown  | [markdown](https://balqeesqasem.github.io/learning-journal/learning-Markdown)
 Version Control | [Version Control](read1)
