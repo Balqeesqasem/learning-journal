@@ -1,10 +1,9 @@
 var pay = Number ;
-var mony = pay.gitpay();
- var greeting; 
- var mony = prompt ("Whats your budjet")
- if (mony > 18) { greeting = 'Goodevening,Class!'; } 
- else if(mony > 12){ greeting = 'Goodafternoon,Class!';
- } else if(mony >= 0){ greeting = 'Goodmorning!'; }
+var greeting; 
+ var pay = prompt ("How much do you want to spend")
+ if (pay < 50) { greeting = 'You can find many ideas for this amount. Enjoy buying our balloons!'; } 
+ else if(pay > 50){ greeting = 'That is a high budget , seems that what you are preparing for will be a wonderful thing with our balloons!';
+ }
  else { greeting = 'Somethingwentwrong!';
  } 
  document.write('<h3>' + greeting + '</h3>');
