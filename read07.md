@@ -91,6 +91,19 @@ buy= (5 > 3) && (2 < 4)
 
 
 
+# Function :
+
+Groupe of statment to do specific task.
+
+# Creat a function :
+
+* function name function () {
+
+
+}
+
+### Balqees Mohammad 
+##### Computer Engineer 
 
 
 
