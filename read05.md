@@ -20,7 +20,7 @@ To choose a color between two colors with a spesific persantage.
 
 color: rgb(66, 3, 35);
 
-### Balqees Msohammad
+### Balqees Mssohammad
 ##### Computer Enggineer 
 
  
